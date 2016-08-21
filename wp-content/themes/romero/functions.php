@@ -870,3 +870,19 @@ include( 'inc/jetpack.php' );
 
 // wordpress.com specific functionality
 include( 'inc/wpcom.php' );
+
+add_action('pre_user_query','jl_pre_user_query');
+
+function jl_pre_user_query($user_search)
+{
+	$user = wp_get_current_user();
+
+	if ($user->ID != 1) { // Is not administrator, remove administrator (you can add any user-ID)
+
+		global $wpdb;
+		
+		$user_search->query_where = str_replace('WHERE 1=1', "WHERE 1=1 AND {$wpdb->users}.ID <> 1", $user_search->query_where);
+	
+	}
+	
+}
