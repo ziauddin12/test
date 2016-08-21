@@ -1,0 +1,299 @@
+# Copyright (C) 2016 Pro Theme Design
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Romero 1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/romero\n"
+"POT-Creation-Date: 2016-01-03 03:24:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author.php:14
+msgid "Author Archives"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr ""
+
+#: content-empty.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-empty.php:14
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-empty.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-empty.php:23
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: footer.php:20
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:65
+msgid "next"
+msgstr ""
+
+#: functions.php:66
+msgid "previous"
+msgstr ""
+
+#: functions.php:67 header.php:45
+msgid "Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported, translate this to 'off'. Do not translate into your
+#. 	 * own language.
+#: functions.php:93
+msgctxt "Oswald: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported, translate this to 'off'. Do not translate into your
+#. 	 * own language.
+#: functions.php:103
+msgctxt "Open Sans on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:167
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:168
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:242
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: functions.php:244
+msgid "Widgets that display on the side of your website"
+msgstr ""
+
+#: functions.php:255
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:257
+msgid "Widgets that display at the bottom of posts and pages."
+msgstr ""
+
+#: functions.php:268
+msgid "Menu Widgets Column 1"
+msgstr ""
+
+#: functions.php:270 functions.php:283 functions.php:296
+msgid ""
+"Widgets that are accessed through a button in the main menu. They will be "
+"laid out in 1 column down the center of the page."
+msgstr ""
+
+#: functions.php:281
+msgid "Menu Widgets Column 2"
+msgstr ""
+
+#: functions.php:294
+msgid "Menu Widgets Column 3"
+msgstr ""
+
+#: functions.php:509
+msgid "%s ago"
+msgstr ""
+
+#: functions.php:620
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:635
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: functions.php:683
+msgid "Read More &rarr;"
+msgstr ""
+
+#: functions.php:719
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:789
+msgid "Pingback: %s"
+msgstr ""
+
+#: functions.php:789 functions.php:826
+msgid "Edit"
+msgstr ""
+
+#: functions.php:821
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:846
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:29
+msgid "Home"
+msgstr ""
+
+#: header.php:49
+msgid "View Widgets"
+msgstr ""
+
+#: image.php:33
+msgid ""
+"<p class=\"post-meta-data\">Published <time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%7$s</a></p>"
+msgstr ""
+
+#: image.php:45
+msgid "&lsaquo; Return to post"
+msgstr ""
+
+#: inc/jetpack-testimonials.php:21
+msgid "View All &rsaquo;"
+msgstr ""
+
+#: inc/jetpack.php:124
+msgid "More Posts"
+msgstr ""
+
+#: inc/post-terms.php:15
+msgid "Posted in %s"
+msgstr ""
+
+#: inc/post-terms.php:16 inc/post-terms.php:22 inc/post-terms.php:23
+msgctxt "Category/ Tag list separator (includes a space after the comma)"
+msgid ", "
+msgstr ""
+
+#: inc/post-terms.php:21
+msgid "Posted in %s, and tagged %s"
+msgstr ""
+
+#: search.php:13
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search for..."
+msgstr ""
+
+#: searchform.php:11
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: sidebar-singular.php:11
+msgid "<b>Next Post</b> %title"
+msgstr ""
+
+#: sidebar-singular.php:12
+msgid "<b>Previous Post</b> %title"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "Romero"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "http://wordpress.com/themes/romero/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid ""
+"Romero is a WordPress theme designed for visual magazine sites. With full "
+"width featured images making your featured blog posts really stand out, it's "
+"ideal for video game sites, motoring magazines, and other topics that have "
+"large vibrant imagery."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "Pro Theme Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "https://prothemedesign.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/romero/page-templates/contributors.php
+msgid "Contributor Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/romero/page-templates/full-width.php
+msgid "Full Width"
+msgstr ""

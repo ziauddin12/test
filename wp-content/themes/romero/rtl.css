@@ -1,0 +1,445 @@
+.fluid-width-video-wrapper iframe,
+.fluid-width-video-wrapper object,
+.fluid-width-video-wrapper embed {
+    right: 0;
+	left: auto;
+}
+
+ol,
+ul {
+    padding: 0 1.5rem 0 0;
+}
+
+input.radio {
+    margin-left: 20px;
+	margin-right: auto;
+}
+
+.postnav .next,
+.postnav .prev {
+    float: right;
+}
+
+.postnav .next {
+    text-align: left;
+    float: left;
+}
+
+.invisible {
+    right: -1000em;
+	left: auto;
+}
+
+img#wpstats {
+    right: -100px;
+	left: auto;
+}
+
+.gallery dl {
+    float: right;
+}
+
+.infinite-scroll #infinite-handle span:after {
+    margin-right: 10px;
+	margin-left: auto;
+}
+
+.widget h3.widgettitle:before {
+    margin-left: 3px;
+	margin-right: auto;
+}
+
+.widget.widget_author_grid ul li {
+    float: right;
+}
+
+.widget.widget_authors ul ul {
+    padding: 0 1.5rem 0 0;
+}
+
+a.post-edit-link:before {
+    margin-left: 5px;
+	margin-right: auto;
+}
+
+.content-comments h3#comments:before {
+    margin-left: 20px;
+    float: right;
+	margin-right: auto;
+}
+
+.screen-reader-shortcut {
+    right: -300px;
+	left: auto;
+}
+
+.screen-reader-shortcut:focus {
+    right: 10px;
+	left: auto;
+}
+
+.main .contributor .avatar {
+    float: right;
+    margin: 0 0 0 20px;
+}
+
+.screen-reader-text:hover,
+.screen-reader:hover,
+.screen-reader-text:active,
+.screen-reader:active,
+.screen-reader-text:focus,
+.screen-reader:focus {
+    right: 40px;
+	left: auto;
+}
+
+ol.comment-list li.comment #respond #cancel-comment-reply-link,
+ol.comment-list li.trackback #respond #cancel-comment-reply-link,
+ol.comment-list li.pingback #respond #cancel-comment-reply-link {
+    float: left;
+}
+
+ol.comment-list li.comment footer,
+ol.comment-list li.trackback footer,
+ol.comment-list li.pingback footer {
+    float: right;
+}
+
+ol.comment-list li.comment footer img,
+ol.comment-list li.trackback footer img,
+ol.comment-list li.pingback footer img {
+    float: left;
+}
+
+ol.comment-list li.comment .comment-body,
+ol.comment-list li.trackback .comment-body,
+ol.comment-list li.pingback .comment-body {
+    float: right;
+}
+
+ol.comment-list .depth-1 article {
+    padding-right: 0px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-2 article {
+    padding-right: 40px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-3 article {
+    padding-right: 80px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-4 article {
+    padding-right: 120px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-5 article {
+    padding-right: 160px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-6 article {
+    padding-right: 200px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-7 article {
+    padding-right: 240px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-8 article {
+    padding-right: 280px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-9 article {
+    padding-right: 320px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-10 article {
+    padding-right: 360px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-11 article {
+    padding-right: 400px;
+	padding-left: 0;
+}
+
+ol.comment-list .depth-12 article {
+    padding-right: 440px;
+	padding-left: 0;
+}
+
+#respond p.comment-subscription-form input {
+    margin-left: 20px;
+	margin-right: auto;
+}
+
+.masthead .container {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.masthead .branding {
+    float: right;
+    padding: 0 0 0 40px;
+}
+
+.masthead .branding a.site-logo-link {
+    margin-left: 40px;
+    float: right;
+	margin-right: auto;
+}
+
+.masthead .branding h1.site-title {
+    float: right;
+}
+
+.masthead .secondary {
+    float: left;
+    padding-left: 160px;
+	padding-right: 0;
+}
+
+.masthead .secondary form {
+    left: 0;
+	right: auto;
+}
+
+.masthead .secondary .menu-social-links {
+    float: right;
+}
+
+.masthead .menu {
+    text-align: right;
+}
+
+.masthead .menu ul {
+    -webkit-transition: opacity 200ms, margin 200ms, right 0 linear 1s;
+    -moz-transition: opacity 200ms, margin 200ms, right 0 linear 1s;
+    -ms-transition: opacity 200ms, margin 200ms, right 0 linear 1s;
+    -o-transition: opacity 200ms, margin 200ms, right 0 linear 1s;
+    transition: opacity 200ms, margin 200ms, right 0 linear 1s;
+}
+
+.masthead .menu li {
+    text-align: right;
+}
+
+.masthead .menu li.page_item_has_children > a,
+.masthead .menu li.menu-item-has-children > a {
+    padding-left: 30px;
+	padding-right: 0;
+}
+
+.masthead .menu li.page_item_has_children > a:after,
+.masthead .menu li.menu-item-has-children > a:after {
+    left: 16px;
+	right: auto;
+}
+
+.masthead .menu li ul:before {
+    right: 24px;
+	left: auto;
+}
+
+.masthead .menu li ul:after {
+    right: -40px;
+	left: auto;
+}
+
+.masthead .menu li ul ul {
+    right: 18em;
+	left: auto;
+}
+
+.masthead .menu li ul li.page_item_has_children > a:after,
+.masthead .menu li ul li.menu-item-has-children > a:after {
+    border-right-color: #000000;
+    border-left-width: 0;
+}
+
+.masthead .menu .menu-toggle:before {
+    margin-left: 10px;
+	margin-right: auto;
+}
+
+.masthead .menu-primary {
+    clear: left;
+    padding-left: 60px;
+	padding-right: 0;
+}
+
+.masthead .menu-primary #sidebar-menu-toggle {
+    left: 0;
+	right: auto;
+}
+
+.container {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.main .contributor img.avatar {
+    margin-left: 40px;
+	margin-right: auto;
+}
+
+article.featured-post .permalink {
+    left: 0;
+    right: 0;
+}
+
+article.featured-post .entry {
+    right: 0;
+    left: 0;
+    background: -webkit-gradient(linear, right top, right bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(50%, rgba(0, 0, 0, 0.3)), color-stop(100%, rgba(0, 0, 0, 0.65)));
+}
+
+article.featured-post .post-lead-category {
+    right: auto;
+	left: auto;
+}
+
+article .post-lead-category {
+    right: 20px;
+	left: auto;
+}
+
+article .comment-count {
+    left: 40px;
+	right: auto;
+}
+
+article .comment-count a:before {
+    margin-left: 4px;
+	margin-right: auto;
+}
+
+article .taxonomies .taxonomy:before {
+    margin-left: 5px;
+	margin-right: auto;
+}
+
+.main .article {
+    float: right;
+}
+
+.themes-sidebar1-inactive.page .main .article {
+    float: right;
+}
+
+.main .sidebar {
+    float: right;
+}
+
+.main .latest {
+    float: right;
+    float: left;
+}
+
+.themes-sidebar1-inactive.home .main .latest {
+    float: right;
+}
+
+.main .latest article.post-archive.post-has-thumbnail a.thumbnail {
+    float: right;
+    margin-left: 40px;
+	margin-right: auto;
+}
+
+.main .latest article.post-archive.post-has-thumbnail .entry {
+    padding-right: -moz-calc(37.5% + 40px);
+    padding-right: -webkit-calc(37.5% + 40px);
+    padding-right: calc(37.5% + 40px);
+	padding-left: 0;
+}
+
+.showcase article.post-archive {
+    float: right;
+}
+
+.widget ul ul {
+    padding: 0 1.5rem 0 0;
+}
+
+.attachment nav#image-navigation span {
+    float: right;
+}
+
+.attachment nav#image-navigation span.image-previous {
+    text-align: right;
+}
+
+.attachment nav#image-navigation span.image-next {
+    text-align: left;
+}
+
+.content-comments .comments-navigation .nav-previous {
+    float: right;
+}
+
+.content-comments .comments-navigation .nav-next {
+    float: left;
+}
+
+.writer {
+    padding: 20px 120px 20px 20px;
+}
+
+.writer .avatar {
+    right: 20px;
+	left: auto;
+}
+
+form.search-form input.search-field {
+    padding-left: 30px;
+	padding-right: 0;
+}
+
+form.search-form button.search-submit {
+    left: 2px;
+	right: auto;
+}
+
+#sidebar-menu .column {
+    float: right;
+}
+
+.sidebar-footer .widget {
+    float: right;
+}
+
+@media only screen and (max-width: 782px) {
+
+	.writer .avatar {
+		right: 20px;
+		left: auto;
+	}
+
+	form.search-form input.search-field {
+		padding-left: 30px;
+		padding-right: 0;
+	}
+
+	form.search-form button.search-submit {
+		left: 2px;
+		right: auto;
+	}
+
+	#sidebar-menu .column {
+		float: right;
+	}
+
+	.sidebar-footer .widget {
+		float: right;
+	}
+
+}

@@ -1,0 +1,105 @@
+# Translation of Romero in Dutch
+# This file is distributed under the same license as the Romero package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-04 18:39:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Romero\n"
+
+#. Translators: If there are characters in your language that are not
+#. * supported, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:88
+msgctxt "Oswald: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. * supported, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:98
+msgctxt "Open Sans on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:162
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: functions.php:65 header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:64
+msgid "previous"
+msgstr "Voorgaande"
+
+#: functions.php:63
+msgid "next"
+msgstr "Volgende"
+
+#: footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: content-empty.php:23
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunt vinden wat je zoekt. Misschien kan zoeken je helpen."
+
+#: footer.php:20
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Een semantisch persoonlijk publicatieplatform"
+
+#: content-empty.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Gelieve het opnieuw te proberen met een aantal andere trefwoorden."
+
+#: content-empty.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-empty.php:9
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:18
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: author.php:14
+msgid "Author Archives"
+msgstr "Auteur archief"
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets werd gevonden op deze locatie. Misschien een zoekopdracht  proberen?"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."

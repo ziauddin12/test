@@ -1,0 +1,283 @@
+# Translation of Romero in Hebrew
+# This file is distributed under the same license as the Romero package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-23 03:33:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Romero\n"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/romero/page-templates/full-width.php
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: sidebar-singular.php:11
+msgid "<b>Next Post</b> %title"
+msgstr ""
+
+#: sidebar-singular.php:12
+msgid "<b>Previous Post</b> %title"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "Romero"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "http://wordpress.com/themes/romero/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "Romero is a WordPress theme designed for visual magazine sites. With full width featured images making your featured blog posts really stand out, it's ideal for video game sites, motoring magazines, and other topics that have large vibrant imagery."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "Pro Theme Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/romero/style.css
+msgid "http://theme.wordpress.com/themes/by/pro-theme-design/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/romero/page-templates/contributors.php
+msgid "Contributor Page"
+msgstr "עמוד כותבים"
+
+#: searchform.php:10
+msgid "Search for..."
+msgstr ""
+
+#: searchform.php:11
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "חיפוש..."
+
+#: searchform.php:13
+msgid "Search"
+msgstr "חיפוש"
+
+#: inc/post-terms.php:16 inc/post-terms.php:22 inc/post-terms.php:23
+msgctxt "Category/ Tag list separator (includes a space after the comma)"
+msgid ", "
+msgstr ""
+
+#: inc/post-terms.php:21
+msgid "Posted in %s, and tagged %s"
+msgstr ""
+
+#: search.php:13
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "תוצאות חיפוש עבור r &#8216;<em>%s</em>&#8217;"
+
+#: header.php:48
+msgid "View Widgets"
+msgstr ""
+
+#: image.php:33
+msgid "<p class=\"post-meta-data\">Published <time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></p>"
+msgstr ""
+
+#: image.php:45
+msgid "&lsaquo; Return to post"
+msgstr "&rsaquo; חזרה לרשומה"
+
+#: inc/jetpack-testimonials.php:21
+msgid "View All &rsaquo;"
+msgstr "לצפות בהכל &lasquo;"
+
+#: inc/jetpack.php:124
+msgid "More Posts"
+msgstr "עוד פוסטים"
+
+#: inc/post-terms.php:15
+msgid "Posted in %s"
+msgstr "פורסם ב%s"
+
+#: header.php:28
+msgid "Home"
+msgstr "ראשי"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "דילוג לתוכן"
+
+#: functions.php:844
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה ממתינה לאישור."
+
+#: functions.php:821
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#: functions.php:784
+msgid "Pingback: %s"
+msgstr ""
+
+#: functions.php:784 functions.php:826
+msgid "Edit"
+msgstr "עריכה"
+
+#: functions.php:679
+msgid "Read More &rarr;"
+msgstr "המשך &larr;"
+
+#: functions.php:714
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "כתבה אחת"
+msgstr[1] "%d כתבות"
+
+#: functions.php:616
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "פורסם בתאריך %s"
+
+#: functions.php:631
+msgctxt "post author"
+msgid "By %s"
+msgstr "מאת %s"
+
+#: functions.php:249
+msgid "Widgets that display at the bottom of posts and pages."
+msgstr ""
+
+#: functions.php:260
+msgid "Menu Widgets Column 1"
+msgstr ""
+
+#: functions.php:262 functions.php:275 functions.php:288
+msgid "Widgets that are accessed through a button in the main menu. They will be laid out in 1 column down the center of the page."
+msgstr ""
+
+#: functions.php:273
+msgid "Menu Widgets Column 2"
+msgstr ""
+
+#: functions.php:286
+msgid "Menu Widgets Column 3"
+msgstr ""
+
+#: functions.php:505
+msgid "%s ago"
+msgstr "לפני %s"
+
+#: functions.php:236
+msgid "Widgets that display on the side of your website"
+msgstr ""
+
+#: functions.php:247
+msgid "Footer Widgets"
+msgstr "וידג'טים בתחתית כל עמוד"
+
+#: functions.php:234
+msgid "Sidebar Widgets"
+msgstr "וידג'טים של הסרגל הצידי"
+
+#: functions.php:163
+msgid "Social Links Menu"
+msgstr "תפריט קישורי מדיה חברתית"
+
+#. Translators: If there are characters in your language that are not
+#. * supported, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:88
+msgctxt "Oswald: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. * supported, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:98
+msgctxt "Open Sans on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:162
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:65 header.php:44
+msgid "Menu"
+msgstr "תפריט"
+
+#: functions.php:64
+msgid "previous"
+msgstr "קודם"
+
+#: functions.php:63
+msgid "next"
+msgstr "לשלב הבא"
+
+#: footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: content-empty.php:23
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "נראה שאנו לא מוצאים את מה שאתה מחפש. אולי חיפוש יוכל לעזור."
+
+#: footer.php:20
+msgid "A Semantic Personal Publishing Platform"
+msgstr "פלטפורמה סמנטית לפרסום תוכן"
+
+#: content-empty.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "מצוערים, אבל לא נמצאה התאמה. אפשר לנסות שוב עם מילות חיפוש שונות."
+
+#: content-empty.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הרשומה הראשונה שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: content-empty.php:9
+msgid "Nothing Found"
+msgstr "לא נמצא כלום"
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr "תגובות חדשות יותר"
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr "תגובות קודמות"
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:18
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "תגובה אחת"
+msgstr[1] "%1$s תגובות"
+
+#: comments.php:20
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: author.php:14
+msgid "Author Archives"
+msgstr "ארכיוני מחבר"
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה שלא נמצא כלום במיקום הזה. אולי תנסו לחפש?"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת אינו קיים."
