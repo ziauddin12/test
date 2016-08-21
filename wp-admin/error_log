@@ -1,0 +1,1 @@
+[21-Aug-2016 18:53:23 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/dalridgedog/public_html/wp-includes/load.php on line 317
