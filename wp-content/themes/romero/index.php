@@ -25,6 +25,7 @@
 ?>
 			</div>
 <?php
+//hhhhh
 		get_sidebar();
 
 	} else {
@@ -32,3 +33,4 @@
 	}
 
 	get_footer();
+ 
